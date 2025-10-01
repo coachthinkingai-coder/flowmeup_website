@@ -44,14 +44,9 @@ const GlowingButton = ({
       `}
       style={{
         backgroundColor: 'var(--midnight-blue)',
-        boxShadow: isHovered 
-          ? '0 0 25px rgba(163, 247, 135, 0.6), 0 20px 40px rgba(0, 0, 0, 0.3)' 
+        boxShadow: isHovered
+          ? '0 0 25px rgba(163, 247, 135, 0.6), 0 20px 40px rgba(0, 0, 0, 0.3)'
           : '0 4px 12px rgba(0, 0, 0, 0.2)',
-      }}
-      style={{
-        boxShadow: isHovered 
-          ? '0 0 25px rgba(163, 247, 135, 0.6), 0 20px 40px rgba(0, 0, 0, 0.1)' 
-          : '0 4px 12px rgba(0, 0, 0, 0.05)',
       }}
     >
       {/* Sfondo animato al hover */}

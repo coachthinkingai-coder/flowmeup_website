@@ -20,10 +20,10 @@ const translations = {
     'nav.cta': 'Prenota la tua Demo',
     
     // Hero
-    'hero.title': 'Automazioni AI pensate per le PMI italiane',
+    'hero.title': 'Automazioni AI pensate per le PMI',
     'hero.title.automazioni': 'Automazioni',
     'hero.title.ai': 'AI',
-    'hero.title.rest': 'pensate per le PMI italiane',
+    'hero.title.rest': 'pensate per le PMI',
     'hero.subtitle': 'Mappiamo i processi aziendali con te e configuriamo un ecosistema di agenti AI, coordinati e supervisionati, che dialogano con i tuoi reparti e automatizzano le attività ripetitive sui sistemi che usi già.',
     'hero.cta': 'Prenota la tua Demo',
     
