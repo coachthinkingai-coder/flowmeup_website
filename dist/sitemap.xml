@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://flowmeup.me/</loc>
+    <lastmod>2025-01-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://flowmeup.me/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://flowmeup.me/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://flowmeup.me/" />
+    <image:image>
+      <image:loc>https://flowmeup.me/logo_final.png</image:loc>
+      <image:title>FlowMeUp - Logo aziendale automazioni AI per PMI italiane</image:title>
+      <image:caption>FlowMeUp è la piattaforma leader per automazioni AI personalizzate per PMI italiane</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://flowmeup.me/logo_final.png</video:thumbnail_loc>
+      <video:title>FlowMeUp - Automazioni AI per PMI Italiane</video:title>
+      <video:description>Video dimostrativo delle automazioni AI FlowMeUp per PMI italiane</video:description>
+      <video:content_loc>https://flowmeup.me/aiFlow.mp4</video:content_loc>
+      <video:duration>60</video:duration>
+      <video:publication_date>2024-12-20</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://flowmeup.me/privacy-policy.html</loc>
+    <lastmod>2025-01-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://flowmeup.me/privacy-policy.html" />
+  </url>
+  <url>
+    <loc>https://flowmeup.me/terms-conditions.html</loc>
+    <lastmod>2025-01-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://flowmeup.me/terms-conditions.html" />
+  </url>
+</urlset>
